@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jarray Najm Eddine</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- #first [EJRILI YAMMI](https://github.com/JARRAY-NAJEM/ejrili_emergency_chatbot.git)
+-  chatbot for virtual assistance in emergency situations [EJRILI YAMMI](https://github.com/JARRAY-NAJEM/ejrili_emergency_chatbot.git)
 
-- #Second [Sign Now](https://github.com/JARRAY-NAJEM/SignNow.git)
+-  web application focusing on electronic document signatures [Sign Now](https://github.com/JARRAY-NAJEM/SignNow.git)
 
 - 💬 Ask me about **Angular Flutter Rasa Python**
 
