@@ -1,4 +1,4 @@
-![njm GitHub Banner](https://i.ibb.co/SBwnv55/logoAI.png)
+![njm GitHub Banner](https://i.ibb.co/N3qypLP/1691112503403.jpg)
 
 <h1 align="center">Hi 👋, I'm Jarray Najm Eddine</h1>
 <h3 align="center">Full Stack developer From Tunisie</h3>
