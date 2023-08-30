@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jarraynajmeddine@ISMAI.u-kairouan.tn**
 
+- 🌱 Learning all about development
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/njm-fsd-mean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="njm-fsd-mean" height="30" width="40" /></a>
