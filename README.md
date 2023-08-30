@@ -6,7 +6,7 @@
 -  web application focusing on electronic document signatures [Sign Now](https://github.com/JARRAY-NAJEM/SignNow.git)
 
 
-- 💬 Ask me about **Angular Flutter Rasa Python**
+- 💬 Ask me about **Angular Flutter Rasa Python Node.Js SpringBoot JS TS **
 
 - 📫 How to reach me [https://www.linkedin.com/in/najmeddine-jarray-531420238/](https://www.linkedin.com/in/najmeddine-jarray-531420238/)
 
