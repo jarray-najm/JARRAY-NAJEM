@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jarray Najm Eddine</h1>
-<h3 align="center">Full Stack developer</h3>
-
--  chatbot for virtual assistance in emergency situations [EJRILI YAMMI](https://github.com/JARRAY-NAJEM/ejrili_emergency_chatbot.git)
-
--  web application focusing on electronic document signatures [Sign Now](https://github.com/JARRAY-NAJEM/SignNow.git)
+<h3 align="center">Full Stack developer From Tunisie</h3>
 
 
-- 💬 Ask me about **Angular Flutter Rasa Python Node.Js SpringBoot JS TS **
+- 💬 Ask me about **Angular Flutter Node.JS Nest.Js Flask SpringBoot**
 
 - 📫 How to reach me [https://www.linkedin.com/in/najmeddine-jarray-531420238/](https://www.linkedin.com/in/najmeddine-jarray-531420238/)
 
