@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jarray Najm Eddine</h1>
 <h3 align="center">Full Stack developer From Tunisie</h3>
 
-- 📫 How to reach me [najmejarray@gmail.com](najmejarray@gmail.com)
-
 - 💬 Ask me about **Angular Flutter Node.JS Nest.Js Flask SpringBoot**
+
+- 📫 How to reach me [najmejarray@gmail.com](najmejarray@gmail.com)
 
 - 📫 How to reach me **jarraynajmeddine@ISMAI.u-kairouan.tn**
 
