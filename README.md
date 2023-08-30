@@ -11,7 +11,6 @@
 - 📫 How to reach me [https://www.linkedin.com/in/najmeddine-jarray-531420238/](https://www.linkedin.com/in/najmeddine-jarray-531420238/)
 
 - 📫 How to Contact  me **jarraynajmeddine@ISMAI.u-kairouan.tn***
-- 
 - 📫 How to Contact  me **najmejarray@gmail.com**
 
 - 📄 Know about my experiences [https://jarray-najem.github.io/alternance_cv/](https://jarray-najem.github.io/alternance_cv/)
