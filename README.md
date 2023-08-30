@@ -8,6 +8,7 @@
 - 💬 Ask me about **Angular Flutter Node.JS Nest.Js Flask SpringBoot**
 
 - 📫 How to reach me **jarraynajmeddine@ISMAI.u-kairouan.tn**
+<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
